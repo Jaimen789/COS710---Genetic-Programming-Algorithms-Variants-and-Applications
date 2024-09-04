@@ -1,0 +1,33 @@
+1.
+True Positives (TP): 47
+False Positives (FP): 24
+False Negatives (FN): 34
+fittest_individual = 0.7653631284916201
+Test accuracy of the fittest individual: 74.89177489177489 %
+Precision: 0.6619718309859155
+Recall: 0.5802469135802469
+F1-score: 0.6184210526315791
+Accuracy: 0.7489177489177489
+seed = 88
+max_depth = 8
+num_generations = 100
+population_size=100
+
+
+2.
+True Positives (TP): 52
+False Positives (FP): 27
+False Negatives (FN): 29
+Test accuracy of the fittest individual: 75.75757575757575 %
+Precision: 0.6582278481012658
+Recall: 0.6419753086419753
+F1-score: 0.6499999999999999
+Accuracy: 0.7575757575757576
+seed = 110
+max_depth = 8
+num_generations = 100
+population_size=100
+
+
+
+seed = 57 -? 72.29%

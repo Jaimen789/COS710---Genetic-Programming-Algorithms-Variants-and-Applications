@@ -1,0 +1,5 @@
+-> The split dataset is already contained in their respective folders ("test_set" and "training_set"). 
+    If not, run data_preprocessing.py in the "current directory", to handle data preprocessing and split the dataset.
+
+-> Then, cd into "code" folder
+    -> run Solver.py
